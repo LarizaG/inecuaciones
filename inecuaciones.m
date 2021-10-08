@@ -1,7 +1,7 @@
 % Script de octave
 % Titulo   :Resolucion de inecuaciones de primer y segundo grado con su grafica
 % Author   :Jenifer Almaraz Suarez, Astrit Lariza Garcia Castillo, Zaragoza Palma Patricia
-% Date     :20211006
+% Date     :20211007
 % Version  :1
 % Usage    :octave> cd /path/
 %          :octave>inecuaciones
